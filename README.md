@@ -19,8 +19,7 @@ Educloud Academy.
   [(https://forms.gle/ffSJyx6xXf7Dy4CA7)](<(https:/forms.gle/ffSJyx6xXf7Dy4CA7)>)
 - **Challenge code: EDUC-W1**
 
-**  
-Week 1: AI Fundamentals & Prompt Engineering**
+**Week 1: AI Fundamentals & Prompt Engineering**
 
 **Challenge 1**: What Is Generative AI?
 
@@ -60,25 +59,34 @@ LLM and share on your social media pages.
 
 **How to Submit Your Challenge Work:**
 
-1.  **Complete the Task  
-    **Follow the instructions for each challenge carefully and complete the task
-    using the recommended tools.
-2.  **Upload Your Work  
-    **Upload your project/code/screenshots to **GitHub**, (make sure it's public
-    or viewable).
-3.  **Fill the Submission Form  
-    **Submit your project link and brief reflection using the \[Educloud Academy
-    Submission Form\] (link to be provided for each challenge).
-4.  **Track Your Progress  
-    **We’ll update the public **Leaderboard** weekly. You’ll earn badges,
-    points, and shoutouts as you progress.
-5.  **Deadline  
-    **All submissions must be made within **5days** of each challenge unless
-    otherwise stated.
+1.  **Complete the Task**
+
+Follow the instructions for each challenge carefully and complete the task using
+the recommended tools.
+
+2. **Upload Your Work**
+
+   Upload your project/code/screenshots to \*\*GitHub\*\*, (make sure it's
+   public or viewable).
+
+3. **Fill the Submission Form**
+
+Submit your project link and brief reflection using the \[Educloud Academy
+Submission Form\] (link to be provided for each challenge).
+
+4.  **Track Your Progress**
+
+We’ll update the public **Leaderboard** weekly. You’ll earn badges, points, and
+shoutouts as you progress.
+
+5. **Deadline**
+
+All submissions must be made within \*\*5days\*\* of each challenge unless
+otherwise stated.
 
 **Task Completion(score)**: 70% for project work - 30% Social media.
 
-**Défi "Cloud & IA Builders" sur 30 jours – Educloud Academy**
+# Défi "Cloud & IA Builders" sur 30 jours – Educloud Academy
 
 _Thème : Apprendre → Construire → Partager → Gagner_
 
